@@ -1,0 +1,1 @@
+This is a project where I try to create a replica of a front end of a website https://sidcupfamilygolf.com/. Some simple animation features and techniques are present in this project. This project uses html, css and javascript. And, if you are interested in golf you can go to that website as well.
